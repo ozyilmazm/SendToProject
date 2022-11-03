@@ -1,0 +1,223 @@
+7/14/2020 11:09:24 AM Default Time
+7/14/2020 11:12:12 AM Default Time
+7/14/2020 11:12:12 AM Event Started
+7/14/2020 11:14:05 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.ThrowHelper.ThrowKeyNotFoundException()
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:14:05 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.ThrowHelper.ThrowKeyNotFoundException()
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:14:05 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.ThrowHelper.ThrowKeyNotFoundException()
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:14:05 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.ThrowHelper.ThrowKeyNotFoundException()
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:14:05 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.ThrowHelper.ThrowKeyNotFoundException()
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:14:05 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.ThrowHelper.ThrowKeyNotFoundException()
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:14:05 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.ThrowHelper.ThrowKeyNotFoundException()
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:14:05 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.ThrowHelper.ThrowKeyNotFoundException()
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:14:05 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.ThrowHelper.ThrowKeyNotFoundException()
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:14:05 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.ThrowHelper.ThrowKeyNotFoundException()
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:14:05 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.ThrowHelper.ThrowKeyNotFoundException()
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:14:05 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.ThrowHelper.ThrowKeyNotFoundException()
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:14:06 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.ThrowHelper.ThrowKeyNotFoundException()
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:14:06 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.ThrowHelper.ThrowKeyNotFoundException()
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:14:06 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.ThrowHelper.ThrowKeyNotFoundException()
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:14:06 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.ThrowHelper.ThrowKeyNotFoundException()
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:14:06 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.ThrowHelper.ThrowKeyNotFoundException()
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:14:06 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.ThrowHelper.ThrowKeyNotFoundException()
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:14:06 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.ThrowHelper.ThrowKeyNotFoundException()
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:14:06 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.ThrowHelper.ThrowKeyNotFoundException()
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:14:06 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.ThrowHelper.ThrowKeyNotFoundException()
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:14:06 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.ThrowHelper.ThrowKeyNotFoundException()
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:14:06 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.ThrowHelper.ThrowKeyNotFoundException()
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:14:06 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.ThrowHelper.ThrowKeyNotFoundException()
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:14:06 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.ThrowHelper.ThrowKeyNotFoundException()
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:14:06 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.ThrowHelper.ThrowKeyNotFoundException()
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:14:06 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.ThrowHelper.ThrowKeyNotFoundException()
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:14:06 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.ThrowHelper.ThrowKeyNotFoundException()
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:14:06 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.ThrowHelper.ThrowKeyNotFoundException()
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:14:06 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.ThrowHelper.ThrowKeyNotFoundException()
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:14:06 AM Exporting to Excel
+7/14/2020 11:14:11 AM Program Finished
+7/14/2020 11:19:16 AM Default Time
+7/14/2020 11:19:16 AM Event Started
+7/14/2020 11:19:39 AM ONLINE Time
+7/14/2020 11:22:00 AM Event Started
+7/14/2020 11:23:50 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:23:50 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:23:50 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:23:50 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:23:50 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:23:50 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:23:50 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:23:50 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:23:50 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:23:50 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:23:50 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:23:50 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:23:50 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:23:51 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:23:51 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:23:51 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:23:51 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:23:51 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:23:51 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:23:51 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:23:51 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:23:51 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:23:51 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:23:51 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:23:51 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:23:51 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:23:51 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:23:51 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:23:51 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:23:51 AM HIS : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CommunicationFailure.Program.Report() in d:\Codes\CommunicationFailure\CommunicationFailure\Program.cs:line 254
+7/14/2020 11:23:51 AM Exporting to Excel
+7/14/2020 11:23:52 AM Program Finished
+7/14/2020 11:27:28 AM Default Time
+7/14/2020 11:27:28 AM Event Started
