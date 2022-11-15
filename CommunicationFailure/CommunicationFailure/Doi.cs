@@ -30,6 +30,9 @@ namespace CommunicationFailure
 
         public static void FillDistricts()
         {
+
+            string Name;
+            string Description;
             CxCdaDoiCommand DoiCommand;
             DoiCommand = Connection.GetCommandObj();
             DoiCommand.AddPrimaryType("sysNetSubstations", 0);
@@ -44,12 +47,23 @@ namespace CommunicationFailure
             {
                 try
                 {
-                    Program.DistrictList.Add(QueryResult.GetAttribute("sysNetSubstations.Path").ToString().Split('/')[1], QueryResult.GetAttribute("sysNetSubstations.Description"));
+
+                    if (!DBNull.Value.Equals(QueryResult.GetAttribute("sysnetSubstations.Description")))
+                    {
+                        Description = QueryResult.GetAttribute("sysnetSubstations.Description");
+                    }
+                    else
+                    {
+                        Description = "No Description";
+                    }
+
+                    Name = QueryResult.GetAttribute("sysNetSubstations.Path").ToString().Split('/')[1];
+                    Program.DistrictList.Add(Name,Description);
                 }
                 catch (ArgumentException)
                 {
                 }
-
+               
                 QueryResult.MoveNext();
             }
 
@@ -69,7 +83,7 @@ namespace CommunicationFailure
             {
                 try
                 {
-                    Program.NetSubstationList.Add(QueryResult.GetAttribute("Substation.Path").toString().Split('/')[2], QueryResult.GetAttribute("Substation.Path").toString().Split('/')[1]);
+                    Program.NetSubstationList.Add(QueryResult.GetAttribute("Substation.Path").Split('/')[2], QueryResult.GetAttribute("Substation.Path").Split('/')[1]);
                 }
                 catch (ArgumentException)
                 {
@@ -95,7 +109,7 @@ namespace CommunicationFailure
                 {
                     try
                     {
-                        Program.NetCFEList.Add(QueryResult.GetAttribute("CfeRemoteTerminalUnit.Path").ToString().Split('/')[3], QueryResult.GetAttribute("CfeRemoteTerminalUnit.Path").ToString().Split('/')[2]);
+                        Program.NetCFEList.Add(QueryResult.GetAttribute("CfeRemoteTerminalUnit.Path").ToString().Split('/')[3], QueryResult.GetAttribute("CfeRemoteTerminalUnit.Path"));
                     }
                     catch (ArgumentException)
                     {

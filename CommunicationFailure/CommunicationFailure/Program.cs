@@ -31,7 +31,7 @@ namespace CommunicationFailure
         private static DateTime StartDate;
         private static DateTime EndDate;
         private static string PSOS;
-        private static IxDigitalMeasurement Digital = new DigitalMeasurementClass(),;
+        private static IxDigitalMeasurement Digital = new DigitalMeasurementClass();
 
         public static void Main(string[] args)
         {
@@ -141,10 +141,7 @@ namespace CommunicationFailure
             }
 
             int i = 1;
-            OracleConnection Connection;
-            Connection = new OracleConnection();
-            OracleCommand Query;
-
+         
 
             try
             {
@@ -161,8 +158,8 @@ namespace CommunicationFailure
 
 
             #region DOR DB SORGUSU YORUMA ALINDI
-           
-            
+
+
             //Connection.ConnectionString = "Data Source = //" + PSOS + ":1521/DOR;User Id=sys;Password=kn0wn_sys;DBA Privilege=SYSDBA";
             //OracleCommand Query;
             //Query = new OracleCommand();
@@ -237,6 +234,17 @@ namespace CommunicationFailure
             //Connection.Close();
             #endregion
 
+            //Connection.ConnectionString = "Data Source = //" + PSOS + ":1521/DOR;User Id=sys;Password=kn0wn_sys;DBA Privilege=SYSDBA";
+            //OracleCommand Query;
+            //Query = new OracleCommand();
+            //Query.Connection = Connection;
+            //Query.CommandText = "ALTER SESSION SET CURRENT_SCHEMA=DOR_RT";
+            //Query.CommandType = CommandType.Text;
+            //OracleDataReader QueryResult;
+            //QueryResult = Query.ExecuteReader();
+            OracleConnection Connection;
+            Connection = new OracleConnection();
+            OracleCommand Query;
             Connection.ConnectionString = "Data Source = //" + PSOS + ":1521/APPSHIS;User Id=sys;Password=kn0wn_sys;DBA Privilege=SYSDBA";
             try
             {
@@ -251,8 +259,7 @@ namespace CommunicationFailure
             Query.CommandText = "ALTER SESSION SET CURRENT_SCHEMA=HISU";
             Query.CommandType = CommandType.Text;
             OracleDataReader QueryResult;
-            
-
+            QueryResult = Query.ExecuteReader();
             Query.CommandText = " SELECT PATH1,C_TIME.Localtime(TIME_STAMP,42),VALUE,GUID,STATUS,PATH2 " +
                                 " FROM HIS_MESSAGE " +
                                 " WHERE STATUS = 'App' AND PATH4  = '...Failure' AND STATUS <> 'Ack' AND INDICATOR LIKE '%Alarm%' AND " +
@@ -270,12 +277,14 @@ namespace CommunicationFailure
                 try
                 {
 
-                    var xData = new Data(i, NetCFEList[QueryResult.GetValue(0).ToString()], DistrictList[NetSubstationList[QueryResult.GetValue(0).ToString()]], NetSubstationList[QueryResult.GetValue(0).ToString()], QueryResult.GetValue(0).ToString(), QueryResult.GetValue(2).ToString(), Convert.ToDateTime(QueryResult.GetValue(1)), QueryResult.GetValue(4).ToString());
+                    var xData = new Data(i, NetCFEList[QueryResult.GetValue(0).ToString()].Split('/')[2], DistrictList[NetSubstationList[QueryResult.GetValue(0).ToString()]], NetSubstationList[QueryResult.GetValue(0).ToString()], QueryResult.GetValue(0).ToString(), QueryResult.GetValue(2).ToString(), Convert.ToDateTime(QueryResult.GetValue(1)), QueryResult.GetValue(4).ToString());
                     xData.ElapsedTime = Convert.ToInt32((EndDate - xData.TimeStamp).TotalSeconds);
                     try
                     {
-
-                        if (ExcelDict.ContainsKey(xData.SubStation.ToString()) == false)
+                        Digital.ObjectPath = NetCFEList[QueryResult.GetValue(0).ToString()] + @"/...Failure";
+                        Digital.FetchValue();
+                        if (ExcelDict.ContainsKey(xData.SubStation.ToString()) == false
+                            && Digital.ValueName == "On")
                         {
 
                             ExcelDict.Add(xData.SubStation, xData);
@@ -293,7 +302,7 @@ namespace CommunicationFailure
                 }
                 catch (Exception e)
                 {
-                    Log("HIS : " + e.ToString());
+                    Log("HIS : " + e.ToString() + QueryResult.GetValue(0).ToString() + QueryResult.GetValue(1).ToString() + QueryResult.GetValue(2).ToString());
                 }
             }
 
@@ -377,6 +386,7 @@ namespace CommunicationFailure
             }
 
             catch (Exception e)
+
             {
                 Log("Error " + e.ToString());
 

@@ -8,7 +8,7 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>CommunicationFailure</RootNamespace>
     <AssemblyName>CommunicationFailure</AssemblyName>
-    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <TargetFrameworkProfile />
   </PropertyGroup>

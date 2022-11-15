@@ -1,7 +1,6 @@
 D:\Codes\CommunicationFailure\CommunicationFailure\bin\Debug\CommunicationFailure.exe.config
 D:\Codes\CommunicationFailure\CommunicationFailure\bin\Debug\CommunicationFailure.exe
 D:\Codes\CommunicationFailure\CommunicationFailure\bin\Debug\CommunicationFailure.pdb
-D:\Codes\CommunicationFailure\CommunicationFailure\obj\Debug\CommunicationFailure.csprojResolveAssemblyReference.cache
 D:\Codes\CommunicationFailure\CommunicationFailure\obj\Debug\CommunicationFailure.exe
 D:\Codes\CommunicationFailure\CommunicationFailure\obj\Debug\CommunicationFailure.pdb
 C:\UserData\z003eksr\Documents\Projeler\Aktif\ENERJİSA\AYEDAŞ\communication failure\CommunicationFailure\CommunicationFailure\obj\Debug\CommunicationFailure.csproj.AssemblyReference.cache
@@ -9,3 +8,7 @@ C:\UserData\z003eksr\Documents\Projeler\Aktif\ENERJİSA\AYEDAŞ\communication fa
 C:\UserData\z003eksr\Documents\Projeler\Aktif\ENERJİSA\AYEDAŞ\communication failure\CommunicationFailure\CommunicationFailure\obj\Debug\CommunicationFailure.csproj.CoreCompileInputs.cache
 C:\UserData\z003eksr\Documents\Projeler\Aktif\ENERJİSA\AYEDAŞ\communication failure\CommunicationFailure\CommunicationFailure\obj\Debug\CommunicationFailure.exe
 C:\UserData\z003eksr\Documents\Projeler\Aktif\ENERJİSA\AYEDAŞ\communication failure\CommunicationFailure\CommunicationFailure\obj\Debug\CommunicationFailure.pdb
+D:\Codes\CommunicationFailure\CommunicationFailure\obj\Debug\CommunicationFailure.csprojAssemblyReference.cache
+D:\Codes\CommunicationFailure\CommunicationFailure\obj\Debug\CommunicationFailure.csproj.CoreCompileInputs.cache
+D:\Codes\CommunicationFailure\CommunicationFailure\bin\Debug\stdole.dll
+D:\Codes\CommunicationFailure\CommunicationFailure\obj\Debug\CommunicationFailure.csproj.CopyComplete
