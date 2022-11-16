@@ -1,7 +1,0 @@
-D:\Codes\CommunicationFailure\CommunicationFailure\bin\Release\CommunicationFailure.exe.config
-D:\Codes\CommunicationFailure\CommunicationFailure\bin\Release\CommunicationFailure.exe
-D:\Codes\CommunicationFailure\CommunicationFailure\bin\Release\Oracle.ManagedDataAccess.dll
-D:\Codes\CommunicationFailure\CommunicationFailure\bin\Release\stdole.dll
-D:\Codes\CommunicationFailure\CommunicationFailure\obj\Release\CommunicationFailure.csproj.CoreCompileInputs.cache
-D:\Codes\CommunicationFailure\CommunicationFailure\obj\Release\CommunicationFailure.csproj.CopyComplete
-D:\Codes\CommunicationFailure\CommunicationFailure\obj\Release\CommunicationFailure.exe
