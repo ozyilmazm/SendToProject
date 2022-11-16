@@ -1,8 +1,0 @@
-C:\Users\SPCAdmin\Desktop\Mete\AlarmCounter\AlarmCounter\bin\Debug\AlarmCounter.exe.config
-C:\Users\SPCAdmin\Desktop\Mete\AlarmCounter\AlarmCounter\bin\Debug\AlarmCounter.exe
-C:\Users\SPCAdmin\Desktop\Mete\AlarmCounter\AlarmCounter\bin\Debug\AlarmCounter.pdb
-C:\Users\SPCAdmin\Desktop\Mete\AlarmCounter\AlarmCounter\obj\Debug\AlarmCounter.csprojAssemblyReference.cache
-C:\Users\SPCAdmin\Desktop\Mete\AlarmCounter\AlarmCounter\obj\Debug\AlarmCounter.csproj.CoreCompileInputs.cache
-C:\Users\SPCAdmin\Desktop\Mete\AlarmCounter\AlarmCounter\obj\Debug\AlarmCounter.exe
-C:\Users\SPCAdmin\Desktop\Mete\AlarmCounter\AlarmCounter\obj\Debug\AlarmCounter.pdb
-C:\Users\SPCAdmin\Desktop\Mete\AlarmCounter\AlarmCounter\obj\Debug\AlarmCounter.csproj.ResolveComReference.cache
